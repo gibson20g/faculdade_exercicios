@@ -7,4 +7,4 @@ while c <= x:
 	x1 = x2
 	x2 = x3
 	c += 1
-	print(x3)
+	print(x)

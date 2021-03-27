@@ -6,4 +6,4 @@ elif numero % 5 == 0:
 elif numero % 4 == 0:
 	print('O número digitado é divisilvel por 4 "{}" "!'.format(numero))
 elif numero % 4 != 0 and numero % 5 != 0:
-	print("NÃO DIVISIVEL POR 4$ nem por 5%")
+	print("NÃO DIVISIVEL POR 4 nem por 5")

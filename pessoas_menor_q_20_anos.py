@@ -1,9 +1,9 @@
 menor_21 = maior_50 = 0
 while True:
 	idade = int(input("Digite as idades: "))
-	if idade < 21:
+	if 20 >= idade > 0:
 		menor_21 += 1
-	if idade > 50:
+	if idade >= 50:
 		maior_50 += 1
 	if idade == -99:
 		break
