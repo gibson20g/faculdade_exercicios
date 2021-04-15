@@ -8,4 +8,4 @@ while True:
 	s = s + v
 	mediana = s / c
 print('A soma dos numero é: {}'.format(s))
-print('A média do aluno é: ', mediana)
+print('A média do aluno é: '.format(mediana))
